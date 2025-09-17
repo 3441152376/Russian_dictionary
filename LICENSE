@@ -1,23 +1,29 @@
-MIT License
+Non-Commercial Use License (NCUL)
 
-Copyright (c) 2025 
+Copyright (c) 2025  
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+1. Permission is hereby granted, free of charge, to any natural person to use
+   this software and associated documentation files (the “Software”) for
+   personal, non-commercial purposes without prior authorization.
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
+2. Any commercial use (including but not limited to selling, licensing,
+   offering as a paid service, integrating into a commercial product, or
+   internal use by a for‑profit entity) requires the prior written authorization
+   of the author. Please contact the author to obtain written permission.
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+3. Redistribution for non-commercial purposes is permitted provided that you
+   retain this license text, a prominent copyright notice, and a link to the
+   original repository. Modifications must be clearly documented.
+
+4. No Warranty. THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY
+   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN
+   NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM,
+   DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR
+   OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE
+   USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+5. If any part of this license conflicts with mandatory law in your
+   jurisdiction, the remaining parts shall remain in full force and effect.
 
 

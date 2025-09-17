@@ -165,9 +165,6 @@ cd web && npm run build
 - 键盘快捷键支持
 
 ## 🔒 安全说明
-
-- **MasterKey 仅用于服务器端**，不在客户端暴露
-- 客户端使用 AppKey 进行受限访问
 - 生产环境建议使用环境变量管理密钥
 
 ## 📝 更新日志
@@ -179,17 +176,7 @@ cd web && npm run build
 - ✅ MVVM 架构模式
 - ✅ Swagger API 文档
 
-
-有问题可联系邮箱 admin@egg404.cn
-官网：egg404.com
-泸州山禾网络科技有限责任公司
-
-
-鹅语菌 app：https://russian.egg404.com/
-## 🤝 贡献
-
-欢迎提交 Issue 和 Pull Request！
-
-## 📄 许可证
-
-MIT License
+## 📄 许可证（Non-Commercial Use License）
+- 个人非商业用途：免费、无需授权。
+- 商业用途：须联系作者并获得书面授权后方可使用。
+- 详情见仓库根目录 `LICENSE`。

@@ -48,5 +48,7 @@ VITE_API_BASE_URL=your-deployed-domain/api
 VITE_DOCS_URL=your-deployed-domain/docs
 ```
 
-## License
-MIT License
+## License (Non-Commercial Use License)
+- Personal, non-commercial use: free, no authorization required.
+- Commercial use: prior written authorization from the author is required.
+- See `LICENSE` for full terms.
