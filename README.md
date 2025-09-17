@@ -2,9 +2,9 @@
 
 俄汉词典查询系统，基于本地 JSON 数据源的后端 API 和前端网站。
 
-> Languages: [English](./README.en.md) | [Русский](./README.ru.md)
+语言切换：简体中文 | [English](./README.en.md) | [Русский](./README.ru.md)
 
-## 🏗 系统架构
+## 系统架构
 
 ```
 cidian_russiam/
@@ -15,7 +15,7 @@ cidian_russiam/
 └── README.md             # 项目说明
 ```
 
-## 🚀 快速开始
+## 快速开始
 
 ### 1. 环境准备
 ```bash
@@ -52,14 +52,14 @@ npm run dev
 
 前端网站运行在 `http://localhost:5173`（或 5174）
 
-## 📊 数据统计
+## 数据统计
 
 - **总记录数**: 21,636 条俄汉词典数据
 - **数据来源**: 本地 JSON 分片文件（`exports/`）
 - **导出格式**: JSON 分片文件
 - **数据字段**: 包含发音、语法、用法、文化注释等完整信息
 
-## 🔧 API 接口
+## API 接口
 
 ### 搜索接口
 ```http
@@ -83,7 +83,7 @@ GET /health
 
 详细 API 文档：`你部署的域名/docs`
 
-## 🌐 部署指南
+## 部署指南
 
 ### 后端部署
 1. 构建项目：`npm run build`
@@ -107,7 +107,7 @@ VITE_API_BASE_URL=你部署的域名/api
 VITE_DOCS_URL=你部署的域名/docs
 ```
 
-## 🛠 开发指南
+## 开发指南
 
 ### 技术栈
 - **后端**: Node.js + Express + TypeScript
@@ -140,7 +140,7 @@ npm run build
 cd web && npm run build
 ```
 
-## 📱 功能特性
+## 功能特性
 
 ### 搜索功能
 - 支持俄语和中文关键词搜索
@@ -164,10 +164,10 @@ cd web && npm run build
 - 流畅的动画效果
 - 键盘快捷键支持
 
-## 🔒 安全说明
+## 安全说明
 - 生产环境建议使用环境变量管理密钥
 
-## 📝 更新日志
+## 更新日志
 
 ### v1.0.0
 - ✅ React + TypeScript 前端网站
@@ -176,7 +176,13 @@ cd web && npm run build
 - ✅ MVVM 架构模式
 - ✅ Swagger API 文档
 
-## 📄 许可证（Non-Commercial Use License）
+## 许可证（Non-Commercial Use License）
 - 个人非商业用途：免费、无需授权。
 - 商业用途：须联系作者并获得书面授权后方可使用。
 - 详情见仓库根目录 `LICENSE`。
+
+## 作者与公司
+
+- 作者与产品：鹅语菌（俄语学习应用）参见官网说明与下载页：[russian.egg404.com](https://russian.egg404.com/)
+- 公司：泸州山禾网络科技有限责任公司，参见企业官网：[egg404.com](https://egg404.com/)
+
